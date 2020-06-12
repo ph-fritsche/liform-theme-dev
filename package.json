@@ -1,0 +1,18 @@
+{
+    "name": "liform-theme-dev",
+    "version": "0.0.0",
+    "description": "package for supporting theme development",
+    "author": "Philipp Fritsche",
+    "license": "MIT",
+    "dependencies": {
+        "@babel/preset-react": "^7.10.1",
+        "@symfony/webpack-encore": "^0.30.2",
+        "final-form": "^4.20.0",
+        "final-form-arrays": "^3.0.2",
+        "liform-react-final": "^0.0.1-1",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "react-final-form": "^6.5.0",
+        "react-final-form-arrays": "^3.1.1"
+    }
+}
