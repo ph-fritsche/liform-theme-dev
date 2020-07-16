@@ -5,14 +5,7 @@
     "author": "Philipp Fritsche",
     "license": "MIT",
     "dependencies": {
-        "@babel/preset-react": "*",
-        "@symfony/webpack-encore": "^0.30",
-        "final-form": "*",
-        "final-form-arrays": "*",
+        "@symfony/webpack-encore": ">=0.30",
         "liform-react-final": "*",
-        "react": "*",
-        "react-dom": "*",
-        "react-final-form": "*",
-        "react-final-form-arrays": "*"
     }
 }
