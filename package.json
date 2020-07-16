@@ -6,6 +6,6 @@
     "license": "MIT",
     "dependencies": {
         "@symfony/webpack-encore": ">=0.30",
-        "liform-react-final": "*",
+        "liform-react-final": "*"
     }
 }
