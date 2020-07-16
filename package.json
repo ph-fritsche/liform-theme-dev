@@ -5,14 +5,14 @@
     "author": "Philipp Fritsche",
     "license": "MIT",
     "dependencies": {
-        "@babel/preset-react": "^7.10.1",
-        "@symfony/webpack-encore": "^0.30.2",
-        "final-form": "^4.20.0",
-        "final-form-arrays": "^3.0.2",
-        "liform-react-final": "^0.0.1-1",
-        "react": "^16.13.1",
-        "react-dom": "^16.13.1",
-        "react-final-form": "^6.5.0",
-        "react-final-form-arrays": "^3.1.1"
+        "@babel/preset-react": "*",
+        "@symfony/webpack-encore": "^0.30",
+        "final-form": "*",
+        "final-form-arrays": "*",
+        "liform-react-final": "*",
+        "react": "*",
+        "react-dom": "*",
+        "react-final-form": "*",
+        "react-final-form-arrays": "*"
     }
 }
